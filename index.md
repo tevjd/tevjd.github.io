@@ -18,7 +18,7 @@ Here's what you can find on my site.
 ### ✍️ [My Write-ups](/writeups)
 *A collection of my solutions and walk-throughs for CTF challenges or rooms from platforms.*
 
-### 💻 [Tech Blog](/techno)
+### 💻 [Tech Blog](/technos)
 *My posts on technical topics I'm exploring. This includes differents topics or just some cheatsheet commands for tools. This is also good to explore just to get introduction on some topics.*
 
 ### 🛠️ [My Projects](/projects)

@@ -1,3 +1,27 @@
-theme: jekyll-theme-minimal
-title: Teva's Cyber Blog
-description: Cybersecurity projects and research.
+# Welcome to Jekyll!
+
+# -----------------
+# Theme & Title
+# -----------------
+theme: minima
+title: "Teva's Cyber Blog"
+author: "Teva Jeandidier"
+description: "Cybersecurity projects, write-ups, and tech articles."
+
+url: "https://tevjd.github.io"
+
+
+# -----------------
+# Navigation
+# -----------------
+header_pages:
+  - writeups.md
+  - technos.md
+  - projects.md
+
+
+# -----------------
+# Build settings
+# -----------------
+plugins:
+  - jekyll-feed

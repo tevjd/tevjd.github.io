@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Teva Jeandidier
-**Cybersecurity Student & Enthusiast**
+**Cybersecurity Passionate**
 
 Welcome to my personal site. This is where I document my journey in cybersecurity. You'll find my technical projects, blog posts, and solutions to CTF challenges.
 
@@ -11,7 +10,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/teva-jean
 
 ---
 
-## 🧭 Site Navigation
+## Site Navigation
 
 Here's what you can find on my site.
 

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Write-ups
+title: Projects
 ---
 
-# ✍️ My Write-ups
+# 🛠️ My Projects
 
-This is a complete list of my solutions and walk-throughs for CTF challenges and other security rooms. You can also check my profile on [TryHackMe](https://tryhackme.com/p/Skynnet). 
+A showcase of the tools and scripts I'm building.
 
 ---
 
 ### All Posts
 <ul>
-  {% for post in site.categories.writeup reversed %}
+  {% for post in site.categories.project reversed %}
     <li>
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <p>{{ post.excerpt | strip_html }}</p>
